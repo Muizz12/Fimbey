@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+            "name": "BEAUTY",
+            "image": "beauty.png"
+        },
+        {
+            "name": "SUNGLASSES",
+            "image": "sunglasses.png"
+        },
+        {
+            "name": "JACKETS",
+            "image": "jackets.png"
+        },
+        {
+            "name": "SHOES",
+            "image": "shoe.png"
+        }
+    ]
+}
